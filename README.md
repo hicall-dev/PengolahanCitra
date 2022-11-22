@@ -4,3 +4,5 @@
 1. Image Enhancement
 2. Edge Detection
 3. Binerisasi Citra
+
+tinggal ubah package jika ingin menggunakannya
